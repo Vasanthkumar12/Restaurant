@@ -11,7 +11,7 @@ body {
 }
 
 .landing {
-    background-image: url('/pexels-enginakyurt-3219483.jpg');
+    background-image: url('landing\ image.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
